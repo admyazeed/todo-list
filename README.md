@@ -2,7 +2,7 @@
 
 ![Screenshot of the Todo List](./src/assets/images/screenshot.png)
 
-This is a Todo List project from the [Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-todo-list)course. It allows users to create, manage, and organize tasks and projects. View the project [here](https://383myrtle.github.io/odin-todo-list/).
+This is a Todo List project from the [Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-todo-list) course. It allows users to create, manage, and organize tasks and projects. View the project here: [Todo list app](https://383myrtle.github.io/todo-list/).
 
 ## Features
 
